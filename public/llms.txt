@@ -1,0 +1,58 @@
+# Muebly
+
+> Muebly is an AI-powered interior design app that lets anyone redesign, repaint, and virtually stage any room in seconds — no design skills required.
+
+## What is Muebly?
+
+Muebly is a mobile and web application that uses generative AI to transform photos of real rooms into professionally designed spaces. Users upload a photo of any room, select a design style (or describe one), and receive a photorealistic redesigned version within seconds. The app also identifies furniture and decor in the generated image and links to where users can purchase those products from retailers like Amazon, IKEA, JYSK, and Ashley.
+
+## Core Features
+
+- **AI Room Redesign**: Upload any room photo and get an instant AI-generated redesign in a chosen style
+- **Virtual Staging**: Stage empty rooms for real estate listings without physical furniture
+- **Style Library**: Preset design styles including Modern, Minimalist, Loft, Organic, Scandinavian, and more
+- **Shop Your Design**: After generating a design, users can shop the furniture directly from the app via major retailers
+- **E-commerce Integration**: Product sellers can visualize items in realistic room settings
+- **Commercial Use**: Available for real estate agents, interior designers, and e-commerce businesses
+
+## Pricing
+
+- **Free**: $0/forever — 30 credits, AI generations, 1K exports
+- **Weekly**: $6.99/week — 300 credits, 2K exports, private mode, watermark-free
+- **Monthly**: $24.99/month — 1500 credits, 4K exports, commercial license, API access
+
+## Use Cases
+
+1. **Homeowners** — Visualize renovations before committing to changes or purchases
+2. **Real Estate Agents** — Virtually stage empty properties for online listings
+3. **Interior Designers** — Rapidly prototype design concepts for clients
+4. **E-commerce Sellers** — Show products in realistic home environments
+5. **Property Managers** — Refresh listing photos cost-effectively
+
+## Frequently Asked Questions
+
+**Q: How does Muebly work?**
+A: Upload a photo of any room. Select a design style from the library or type a description. Muebly's AI generates a redesigned version of your room in seconds. You can download the image, iterate on the design, or click on furniture pieces to shop them.
+
+**Q: Is Muebly free?**
+A: Yes. Muebly has a free tier with 30 credits. Paid plans start at $6.99/week.
+
+**Q: What makes Muebly different from other AI design tools?**
+A: Muebly combines AI room redesign with a shoppable furniture layer — so users go from inspiration to purchase in the same app. It also has dedicated features for real estate staging and e-commerce product photography.
+
+**Q: Does Muebly require design experience?**
+A: No. Muebly is designed for anyone. You just need a photo of a room and a direction — the AI handles the rest.
+
+**Q: Can I use Muebly commercially?**
+A: Yes. The Monthly plan includes a commercial usage license, suitable for real estate listings, client work, and e-commerce use.
+
+## Blog
+
+Muebly publishes daily articles on interior design, AI design trends, home staging tips, and room makeover inspiration at https://muebly.app/blog
+
+## Contact & Social
+
+- Website: https://muebly.app
+- Twitter/X: https://twitter.com/mueblyapp
+- Instagram: https://instagram.com/mueblyapp
+- LinkedIn: https://linkedin.com/company/muebly
