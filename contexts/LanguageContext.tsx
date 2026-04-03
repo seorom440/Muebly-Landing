@@ -1,6 +1,6 @@
 'use client';
 
-import React, { createContext, useState, useContext, ReactNode } from 'react';
+import React, { createContext, useState, useContext, useEffect, ReactNode } from 'react';
 import { translations, Language, TranslationKey } from '../i18n/translations';
 
 interface LanguageContextType {
@@ -12,7 +12,20 @@ interface LanguageContextType {
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined);
 
 export const LanguageProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
-  const [language, setLanguage] = useState<Language>('en');
+  const [language, setLanguageState] = useState<Language>('en');
+
+  // Restore persisted language on mount
+  useEffect(() => {
+    const stored = localStorage.getItem('muebly-lang') as Language | null;
+    if (stored === 'en' || stored === 'es') {
+      setLanguageState(stored);
+    }
+  }, []);
+
+  const setLanguage = (lang: Language) => {
+    setLanguageState(lang);
+    localStorage.setItem('muebly-lang', lang);
+  };
 
   const t = (key: TranslationKey): string => {
     return translations[language][key] || translations['en'][key] || key;

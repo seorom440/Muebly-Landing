@@ -6,12 +6,14 @@ import { ArrowRight, Calendar, Clock } from "lucide-react";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { PostMeta } from "@/lib/blog";
+import { useLanguage } from "@/contexts/LanguageContext";
 
 interface Props {
   posts: PostMeta[];
 }
 
 export function BlogPage({ posts }: Props) {
+  const { t } = useLanguage();
   const featuredPost = posts[0];
   const regularPosts = posts.slice(1);
 
@@ -29,7 +31,7 @@ export function BlogPage({ posts }: Props) {
                 animate={{ opacity: 1, y: 0 }}
                 className="text-5xl md:text-7xl font-semibold tracking-tighter mb-6 text-black"
               >
-                Blog
+                {t('blogTitle')}
               </motion.h1>
               <motion.p
                 initial={{ opacity: 0, y: 20 }}
@@ -37,7 +39,7 @@ export function BlogPage({ posts }: Props) {
                 transition={{ delay: 0.1 }}
                 className="text-xl text-gray-600 leading-relaxed"
               >
-                Insights on AI interior design, virtual staging, and the future of furniture retail.
+                {t('blogDesc')}
               </motion.p>
             </div>
           </div>
@@ -57,7 +59,7 @@ export function BlogPage({ posts }: Props) {
                       className="object-cover group-hover:scale-105 transition-transform duration-500"
                     />
                     <div className="absolute top-4 left-4 bg-white/90 backdrop-blur-sm px-3 py-1 rounded-full text-xs font-semibold text-emerald-700">
-                      Featured
+                      {t('blogFeaturedTag')}
                     </div>
                   </div>
                   <div className="md:w-1/2 p-8 md:p-12 flex flex-col justify-center">
@@ -75,7 +77,7 @@ export function BlogPage({ posts }: Props) {
                       {featuredPost.description}
                     </p>
                     <span className="flex items-center gap-2 text-black font-medium group-hover:gap-4 transition-all">
-                      Read Article <ArrowRight className="w-4 h-4" />
+                      {t('blogReadArticle')} <ArrowRight className="w-4 h-4" />
                     </span>
                   </div>
                 </Link>
@@ -122,7 +124,7 @@ export function BlogPage({ posts }: Props) {
                         {post.description}
                       </p>
                       <span className="flex items-center gap-2 text-black font-medium text-sm group-hover:gap-3 transition-all mt-auto">
-                        Read Article <ArrowRight className="w-4 h-4" />
+                        {t('blogReadArticle')} <ArrowRight className="w-4 h-4" />
                       </span>
                     </div>
                   </Link>
@@ -137,10 +139,10 @@ export function BlogPage({ posts }: Props) {
           <div className="container mx-auto px-6">
             <div className="max-w-3xl mx-auto text-center">
               <h2 className="text-4xl md:text-5xl font-semibold tracking-tighter mb-6 text-black">
-                Stay in the loop
+                {t('blogSubscribeTitle')}
               </h2>
               <p className="text-lg text-gray-600 mb-10">
-                Get the latest articles on AI design, virtual staging, and furniture retail delivered to your inbox.
+                {t('blogSubscribeDesc')}
               </p>
               <form
                 className="flex flex-col sm:flex-row gap-4 max-w-lg mx-auto"
@@ -148,7 +150,7 @@ export function BlogPage({ posts }: Props) {
               >
                 <input
                   type="email"
-                  placeholder="your@email.com"
+                  placeholder={t('blogEmailPlaceholder')}
                   className="flex-1 px-6 py-4 rounded-full border border-gray-200 focus:outline-none focus:border-emerald-500 focus:ring-1 focus:ring-emerald-500 transition-all"
                   required
                 />
@@ -156,7 +158,7 @@ export function BlogPage({ posts }: Props) {
                   type="submit"
                   className="px-8 py-4 bg-black text-white rounded-full font-medium hover:bg-gray-900 transition-colors flex items-center justify-center gap-2 shrink-0"
                 >
-                  Subscribe
+                  {t('blogSubscribeBtn')}
                 </button>
               </form>
             </div>
