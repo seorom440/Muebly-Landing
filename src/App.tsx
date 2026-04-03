@@ -3,6 +3,7 @@ import { Hero } from "@/components/sections/Hero";
 import { StylesGrid } from "@/components/sections/StylesGrid";
 import { ShopYourDesign } from "@/components/sections/ShopYourDesign";
 import { Pricing } from "@/components/sections/Pricing";
+import { FAQ } from "@/components/sections/FAQ";
 import { Footer } from "@/components/layout/Footer";
 
 export default function App() {
@@ -14,6 +15,7 @@ export default function App() {
         <StylesGrid />
         <ShopYourDesign />
         <Pricing />
+        <FAQ />
       </main>
       <Footer />
     </div>
