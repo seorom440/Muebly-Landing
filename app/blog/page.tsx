@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { getAllPosts } from "@/lib/blog";
 import { BlogPage } from "@/components/pages/BlogPage";
 
 export const metadata: Metadata = {
@@ -8,5 +9,6 @@ export const metadata: Metadata = {
 };
 
 export default function Blog() {
-  return <BlogPage />;
+  const posts = getAllPosts();
+  return <BlogPage posts={posts} />;
 }
