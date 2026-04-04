@@ -24,14 +24,14 @@ const openSans = Open_Sans({
 export const metadata: Metadata = {
   metadataBase: new URL("https://muebly.app"),
   title: {
-    default: "Muebly — AI Interior Design App",
+    default: "Muebly | Diseña Interiores con IA - Visualización Realista",
     template: "%s | Muebly",
   },
   description:
-    "Redesign any room with AI in seconds. Upload a photo, choose a style, and get a photorealistic interior design — then shop the look instantly.",
+    "La herramienta definitiva de IA para diseño de interiores. Transforma habitaciones, cambia estilos y visualiza muebles en segundos con realismo profesional.",
   openGraph: {
     type: "website",
-    locale: "en_US",
+    locale: "es_ES",
     url: "https://muebly.app",
     siteName: "Muebly",
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
         url: "https://muebly.app/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Muebly — AI Interior Design App",
+        alt: "Muebly | Diseña Interiores con IA - Visualización Realista",
       },
     ],
   },
@@ -59,7 +59,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={`${inter.variable} ${dmSans.variable} ${openSans.variable}`}>
+    <html lang="es" className={`${inter.variable} ${dmSans.variable} ${openSans.variable}`}>
       <body>
         <Providers>{children}</Providers>
       </body>
