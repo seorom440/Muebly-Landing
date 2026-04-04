@@ -24,7 +24,9 @@ export const LanguageProvider: React.FC<{ children: ReactNode }> = ({ children }
 
   const setLanguage = (lang: Language) => {
     setLanguageState(lang);
+    // Persist in localStorage (client) and cookie (server-readable)
     localStorage.setItem('muebly-lang', lang);
+    document.cookie = `muebly-lang=${lang}; path=/; max-age=31536000; SameSite=Lax`;
   };
 
   const t = (key: TranslationKey): string => {
