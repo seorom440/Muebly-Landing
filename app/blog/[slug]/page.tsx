@@ -70,7 +70,14 @@ export default async function BlogPostPage({ params }: Props) {
           </div>
 
           <div className="relative aspect-[2/1] rounded-2xl overflow-hidden mb-12">
-            <Image src={post.coverImage} alt={post.title} fill priority className="object-cover" />
+            <Image
+              src={post.coverImage}
+              alt={post.title}
+              fill
+              priority
+              sizes="(max-width: 768px) 100vw, 768px"
+              className="object-cover"
+            />
           </div>
 
           <div
@@ -86,7 +93,13 @@ export default async function BlogPostPage({ params }: Props) {
               {related.map((p) => (
                 <Link key={p.slug} href={`/blog/${p.slug}`} className="group flex flex-col">
                   <div className="relative aspect-[4/3] rounded-2xl overflow-hidden mb-4">
-                    <Image src={p.coverImage} alt={p.title} fill className="object-cover group-hover:scale-105 transition-transform duration-500" />
+                    <Image
+                      src={p.coverImage}
+                      alt={p.title}
+                      fill
+                      sizes="(max-width: 768px) 100vw, 33vw"
+                      className="object-cover group-hover:scale-105 transition-transform duration-500"
+                    />
                   </div>
                   <h3 className="font-medium tracking-tight group-hover:text-accent transition-colors">{p.title}</h3>
                   <p className="text-sm text-muted-foreground mt-1">{p.readingTime}</p>

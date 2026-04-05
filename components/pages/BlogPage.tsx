@@ -56,6 +56,8 @@ export function BlogPage({ posts }: Props) {
                       src={featuredPost.coverImage}
                       alt={featuredPost.title}
                       fill
+                      priority
+                      sizes="(max-width: 768px) 100vw, 50vw"
                       className="object-cover group-hover:scale-105 transition-transform duration-500"
                     />
                     <div className="absolute top-4 left-4 bg-white/90 backdrop-blur-sm px-3 py-1 rounded-full text-xs font-semibold text-emerald-700">
@@ -106,6 +108,7 @@ export function BlogPage({ posts }: Props) {
                         src={post.coverImage}
                         alt={post.title}
                         fill
+                        sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
                         className="object-cover group-hover:scale-105 transition-transform duration-500"
                       />
                     </div>
