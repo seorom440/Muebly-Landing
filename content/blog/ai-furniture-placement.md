@@ -13,7 +13,7 @@ tags: ["furniture placement", "AI", "interior design", "space planning"]
 
 Most people arrange furniture by feel — putting the sofa against the wall, the TV in the corner, and the coffee table in the middle. This default layout works, but it rarely produces an optimal room. It creates circulation bottlenecks, awkward focal points, and wasted space.
 
-AI furniture placement algorithms solve this systematically, analyzing variables that most humans do not consciously consider.
+AI furniture placement algorithms solve this systematically, analyzing variables that most humans do not consciously consider. To see this technology in action, try the [AI room visualization guide](/blog/ai-room-visualization-guide) — it explains how photo upload and spatial analysis come together.
 
 ## The Core Variables in Furniture Placement AI
 
@@ -107,6 +107,8 @@ AI placement is powerful but has limitations:
 
 **Cannot predict future use:** AI optimizes for current declared functions. If your "living room" will double as a playroom for young children, the standard adult seating optimization will produce the wrong result.
 
+For specific layout strategies in compact spaces, our [small space furniture ideas](/blog/small-space-furniture-ideas) guide complements the algorithmic approach with practical human-tested solutions. And if you want to understand how AI perceives your room before it starts placing anything, read [how AI reads your room](/blog/how-ai-reads-your-room).
+
 ## Getting the Most from AI Furniture Placement
 
 1. **Input accurate room dimensions** — width, length, and ceiling height
@@ -125,4 +127,4 @@ The before/after comparison feature lets you see exactly how AI has improved the
 
 Great furniture placement is not visible — it is felt. A well-arranged room feels effortless to move through, naturally draws you into conversation, and seems larger than its dimensions suggest.
 
-**Let Muebly's AI place your furniture** — upload your room and discover the layout you didn't know was possible.
+**Let Muebly's AI place your furniture** — [try our AI tool](/) and upload your room to discover the layout you didn't know was possible.

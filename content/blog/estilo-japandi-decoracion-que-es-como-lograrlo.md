@@ -38,6 +38,8 @@ El Japandi (fusión de **Japan** + **Scandinavi**) combina la calidez funcional 
 - El concepto de hygge (calidez y confort).
 - Las líneas limpias y sin ornamentación.
 
+Si quieres profundizar en el origen escandinavo del Japandi, tenemos también una guía completa de [estilo nórdico para pisos pequeños](/blog/estilo-nordico-pisos-pequenos) donde explicamos sus principios con detalle.
+
 ### Del diseño japonés toma:
 
 - El wabi-sabi: la belleza en la imperfección y lo natural.
@@ -51,6 +53,8 @@ El Japandi (fusión de **Japan** + **Scandinavi**) combina la calidez funcional 
 ## La paleta de colores Japandi
 
 ### Los colores clave:
+
+Para elegir la paleta correcta, consulta también los [colores de moda para salones en 2026](/blog/colores-moda-salones-2026-espana): muchos de los tonos tendencia este año encajan perfectamente con la estética Japandi.
 
 - **Blanco roto / crema:** La base más clara.
 - **Beige arena y camel:** Tonos tierra cálidos.
@@ -138,6 +142,8 @@ Una única pieza de arte significativa en la pared principal, enmarcada en negro
 
 ## Cómo transformar tu salón en estilo Japandi: paso a paso
 
+Antes de ponerte manos a la obra, te recomendamos usar un [simulador de habitaciones con IA](/blog/simuladores-habitaciones-inteligencia-artificial) para ver cómo quedaría el estilo Japandi en tu espacio concreto: es la forma más rápida de validar si la paleta y los muebles que tienes en mente funcionan juntos.
+
 1. **Despeja radicalmente** — El *ma* (vacío japonés) necesita espacio para existir.
 2. **Neutraliza la paleta** — Pinta las paredes en un tono neutro cálido.
 3. **Añade textura natural** — Cojines de lino crudo, manta de algodón, alfombra de yute.
@@ -158,7 +164,7 @@ Puede serlo. La clave está en el almacenamiento bien resuelto para que los obje
 
 ### ¿Cuánto cuesta decorar en estilo Japandi?
 
-Con 1.000€-2.000€ puedes transformar un salón completo. El estilo no requiere muebles de lujo: requiere muebles elegidos con criterio.
+Con 1.000€-2.000€ puedes transformar un salón completo. El estilo no requiere muebles de lujo: requiere muebles elegidos con criterio. Si quieres visualizar el resultado antes de comprar nada, nuestro [visualizador de interiores con IA](/) te permite ver tu habitación transformada en segundos.
 
 ### ¿Qué diferencia hay entre Japandi y minimalismo?
 

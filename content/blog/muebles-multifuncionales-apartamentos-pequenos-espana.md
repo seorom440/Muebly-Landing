@@ -29,7 +29,7 @@ En esta guía te presentamos **los mejores muebles multifuncionales para pisos p
 
 ### 1. Sofá cama de calidad: el rey del salón pequeño
 
-El sofá cama es el mueble multifuncional por excelencia. Los mecanismos más recomendados:
+El sofá cama es el mueble multifuncional por excelencia. Si todavía no tienes claro qué más necesitas en tu salón, repasa primero los consejos para [decorar un salón pequeño con poco dinero](/blog/como-decorar-salon-pequeno-poco-dinero): te dará el marco general antes de elegir piezas concretas. Los mecanismos más recomendados:
 
 - **Clic-clac:** El más sencillo. El respaldo cae hacia atrás formando una cama plana. Económico pero menos cómodo.
 - **Apertura italiana:** El asiento se desliza hacia adelante y el respaldo baja. Mayor comodidad, precio medio.
@@ -131,7 +131,7 @@ El banco de comedor (en lugar de sillas) es tendencia en 2026. Ocupa menos espac
 - ¿Te falta espacio para trabajar? → Escritorio plegable o cama abatible con escritorio.
 - ¿Tu mesa es demasiado pequeña para visitas? → Mesa extensible.
 
-**Mide antes de comprar.** Mide el espacio, mide el mueble cerrado, mide el mueble abierto, y verifica el espacio necesario para maniobrar.
+**Mide antes de comprar.** Mide el espacio, mide el mueble cerrado, mide el mueble abierto, y verifica el espacio necesario para maniobrar. Si además estás en un piso de alquiler, consulta también qué soluciones de almacenaje y mobiliario son compatibles en [decorar un piso de alquiler sin obras](/blog/decorar-piso-alquiler-sin-obras) para no perder la fianza.
 
 ---
 
@@ -155,4 +155,4 @@ No necesariamente. La clave está en la calidad del mecanismo: busca garantías 
 
 ### ¿Puedo combinar muebles multifuncionales con decoración de estilo?
 
-Absolutamente. Los muebles multifuncionales de 2026 tienen un diseño mucho más cuidado. Hay opciones en todos los estilos: nórdico, industrial, contemporáneo y minimalista.
+Absolutamente. Los muebles multifuncionales de 2026 tienen un diseño mucho más cuidado. Hay opciones en todos los estilos: nórdico, industrial, contemporáneo y minimalista. Si quieres asegurarte de que el conjunto queda bien antes de comprar, usa nuestra [herramienta de diseño con IA](/) para visualizar los muebles en tu espacio real. Y si tu presupuesto total está ajustado, no olvides revisar la guía para [amueblar un piso completo por 3.000€](/blog/amueblar-piso-completo-3000-euros).

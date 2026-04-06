@@ -75,7 +75,7 @@ Studio shoots for seasonal campaigns require planning 3–6 months in advance. A
 
 ### Step 1: Catalog Digitization
 
-Every product needs a clean digital foundation:
+Every product needs a clean digital foundation. If you are starting from scratch with your product data, our guide on [how to digitize your furniture catalog for AI](/blog/ai-furniture-catalog) covers the exact file formats and quality requirements needed.
 - **White background product photo** (minimum 8MP): Works as input for most AI tools
 - **3D model** (OBJ or FBX format): Highest accuracy input; allows any angle
 - **Texture and material maps**: For accurate material rendering
@@ -146,6 +146,6 @@ A European bedding brand with 450 SKUs (sheets, duvet covers, pillowcases) was s
 
 ---
 
-The era of six-figure photography budgets for product catalogs is ending. AI product photography delivers better results, in less time, at a fraction of the cost.
+The era of six-figure photography budgets for product catalogs is ending. AI product photography delivers better results, in less time, at a fraction of the cost. For the complete picture of how photography fits into your retailer strategy, [furniture brand digital transformation](/blog/furniture-brand-digital-transformation) covers the full stack. And our [virtual showroom guide](/blog/virtual-showroom-guide) shows how AI photography integrates with the broader digital selling environment.
 
-**Muebly's batch photography API** can generate your entire product catalog in lifestyle settings. Contact us to discuss your catalog and get a custom quote.
+**Muebly's batch photography API** can generate your entire product catalog in lifestyle settings. [Try our AI tool](/) or contact us to discuss your catalog and get a custom quote.

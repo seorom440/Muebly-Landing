@@ -34,7 +34,7 @@ Data from furniture retailers' post-return surveys consistently identifies the s
 | "Quality didn't match photos" | 14% |
 | "Changed my mind" | 11% |
 
-The first three categories — accounting for 75% of returns — are directly addressable by AI visualization. "Changed my mind" returns are often post-visualization anxiety that could also be reduced with better pre-purchase confidence.
+The first three categories — accounting for 75% of returns — are directly addressable by AI visualization. "Changed my mind" returns are often post-visualization anxiety that could also be reduced with better pre-purchase confidence. See how [AI personalization in furniture shopping](/blog/ai-personalization-furniture-shopping) builds confidence even earlier in the journey by surfacing only compatible products.
 
 ## How AI Visualization Attacks Each Return Category
 
@@ -134,8 +134,8 @@ ROI: 540%
 
 Every percentage point of return rate reduction is a direct margin improvement that compounds. Retailers who achieve 10% return rates can price more competitively than competitors running at 20% — or bank the margin difference.
 
-AI visualization is one of the few investments in e-commerce that directly improves the bottom line rather than just the top line.
+AI visualization is one of the few investments in e-commerce that directly improves the bottom line rather than just the top line. For a full view of how visualization integrates with your catalog setup, see [how to digitize your furniture catalog for AI](/blog/ai-furniture-catalog). And if you want the complete picture of online furniture retail strategy, [AI room visualization](/blog/ai-room-visualization-guide) explains the technology powering every "See In Your Room" feature.
 
 ---
 
-**Start reducing your return rates today** — Muebly's retailer API integrates with Shopify, WooCommerce, and custom platforms. Contact us for a free pilot.
+**Start reducing your return rates today** — Muebly's retailer API integrates with Shopify, WooCommerce, and custom platforms. [Try our AI tool](/) or contact us for a free pilot.

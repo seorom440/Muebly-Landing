@@ -23,7 +23,7 @@ Traditional staging involves a professional stager selecting, transporting, and 
 
 ## What Is AI Virtual Staging?
 
-AI virtual staging uses machine learning models to digitally furnish photographs of empty rooms. The process takes seconds, requires no physical access, and produces photorealistic images for use in online listings.
+AI virtual staging uses machine learning models to digitally furnish photographs of empty rooms. The process takes seconds, requires no physical access, and produces photorealistic images for use in online listings. For a full explanation of how the technology works, see our guide on [what is AI virtual staging](/blog/what-is-ai-virtual-staging).
 
 **The result:** Digitally furnished photos optimized for online presentation. In-person visitors see the empty space.
 
@@ -101,6 +101,8 @@ Disclosure is not just a legal requirement — it builds buyer trust and prevent
 
 ## ROI Calculation: Making the Decision
 
+For a detailed analysis of returns specifically in the real estate sector, see our article on [virtual staging ROI](/blog/virtual-staging-roi) and the broader [real estate virtual staging ROI](/blog/real-estate-virtual-staging-roi) research.
+
 For a $400,000 listing:
 
 | Scenario | Investment | Time on Market | Sale Price |
@@ -116,4 +118,4 @@ For a $400,000 listing:
 
 The best staging choice is the one that maximizes your net return after all costs. AI virtual staging has made professional presentation accessible to every listing, at every price point.
 
-**Start with Muebly's free trial** — stage your first 3 rooms at no cost and see the results before you commit.
+**Start with Muebly's free trial** — [AI-powered room visualizer](/) — stage your first 3 rooms at no cost and see the results before you commit.

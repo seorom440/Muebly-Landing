@@ -96,6 +96,8 @@ En un piso de alquiler, el mobiliario es donde puedes hacer la mayor diferencia.
 - **Estanterías modulares apoyadas en pared:** Una estantería bien equilibrada puede estar apoyada sin anclarse.
 - **Un mueble auxiliar con personalidad:** Una cómoda vintage, un aparador, una mesita de diseño.
 
+Cuando elijas el mobiliario, piensa en piezas que también resuelvan el almacenamiento: los [muebles multifuncionales para apartamentos pequeños](/blog/muebles-multifuncionales-apartamentos-pequenos-espana) son especialmente útiles en pisos de alquiler porque son removibles y versátiles.
+
 ---
 
 ## Solución 4: Iluminación — transformar el ambiente sin tocar el cableado
@@ -115,6 +117,8 @@ Las guirnaldas LED son perfectas para crear ambiente. Se pueden colgar con tiras
 ---
 
 ## Solución 5: Textiles — la decoración más rápida y reversible
+
+Para elegir colores con criterio y sin riesgo de equivocarte, consulta antes los [colores de moda para salones en 2026](/blog/colores-moda-salones-2026-espana): así sabrás qué paletas funcionan en los distintos estilos antes de comprar cojines, cortinas o alfombras.
 
 ### Lo que puedes cambiar:
 
@@ -164,7 +168,7 @@ Sí, siempre que guardes las originales y las repongas al marcharte. Es una de l
 
 ### ¿Merece la pena invertir en decorar un piso de alquiler?
 
-Sí, especialmente si vas a vivir en él más de un año. Tu entorno afecta directamente a tu bienestar. Además, la mayoría de las inversiones en muebles y decoración te las llevas contigo.
+Sí, especialmente si vas a vivir en él más de un año. Si quieres inspirarte antes de comprar nada, nuestra [herramienta de diseño con IA](/) te permite ver cómo quedaría tu piso decorado sin gastar un euro. Y si vas a comprar muebles nuevos para el alquiler, consulta también la guía de las [mejores tiendas de muebles online en España](/blog/mejores-tiendas-muebles-online-espana) para encontrar la mejor relación calidad-precio. Tu entorno afecta directamente a tu bienestar. Además, la mayoría de las inversiones en muebles y decoración te las llevas contigo.
 
 ### ¿Qué pasa si el propietario quiere que pague por daños al entregar el piso?
 

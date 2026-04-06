@@ -55,7 +55,7 @@ New furniture is then rendered with shadows that match the existing light enviro
 
 ## Step 4: Style and Material Analysis
 
-The AI does not just drop furniture into a room — it selects furniture that fits. To do this, it analyzes the room's existing aesthetic:
+The AI does not just drop furniture into a room — it selects furniture that fits. To do this, it analyzes the room's existing aesthetic. For a practical guide to how this spatial intelligence is used to actually place furniture, see our article on [AI-powered furniture placement](/blog/ai-furniture-placement).
 
 - **Color palette extraction**: The dominant and accent colors already in the space
 - **Material classification**: Wood, concrete, fabric, tile, stone surfaces
@@ -107,4 +107,6 @@ This is why Muebly's quality validation step is non-negotiable. Every generated 
 
 The next time you upload a room photo and receive a furnished version in 30 seconds, you will know exactly what happened in that time — and why getting it right requires this depth of AI engineering.
 
-**Try Muebly's AI room analysis** — upload any room and see how our AI reads and redesigns it.
+For a user-facing overview of what all this technology enables in practice, the [AI room visualization guide](/blog/ai-room-visualization-guide) explains the full process from upload to finished result. And [what is AI virtual staging](/blog/what-is-ai-virtual-staging) shows how these capabilities are specifically applied in real estate contexts.
+
+**Try Muebly's AI room analysis** — [our free AI room designer](/) lets you upload any room and see how our AI reads and redesigns it.

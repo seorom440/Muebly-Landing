@@ -27,3 +27,9 @@ We accept standard CSV files. Download our template, fill it in, and upload.
 ## Tips for Better Results
 
 High-quality product photos on white backgrounds give the best AI renders. Minimum 800×800px recommended.
+
+Once your catalog is live, explore how [AI personalization in furniture shopping](/blog/ai-personalization-furniture-shopping) can drive recommendations from your catalog. A well-structured catalog also enables [AI visualization to reduce furniture returns](/blog/reduce-furniture-returns-ai) — and our [AI product photography guide](/blog/ai-product-photography-furniture) covers how to optimize your product images before uploading.
+
+---
+
+Ready to connect your catalog? [Try our AI tool](/) and see your products visualized in real rooms.

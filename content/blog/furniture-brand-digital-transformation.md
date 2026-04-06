@@ -60,7 +60,7 @@ This is where most furniture brands underinvest — and where the biggest compet
 
 ### AI Lifestyle Photography
 
-Generate photorealistic lifestyle images for your entire catalog using AI. At $10–$20 per image and 5 lifestyle scenes per SKU, a 200-SKU catalog costs $10,000–$20,000 for photography that would have cost $300,000–$600,000 in a studio.
+Generate photorealistic lifestyle images for your entire catalog using AI. At $10–$20 per image and 5 lifestyle scenes per SKU, a 200-SKU catalog costs $10,000–$20,000 for photography that would have cost $300,000–$600,000 in a studio. Our detailed guide to [AI product photography for furniture](/blog/ai-product-photography-furniture) covers the exact workflow.
 
 **Priority:** Products with the highest traffic and conversion potential first; roll out to full catalog in batches.
 
@@ -170,6 +170,8 @@ Successful furniture digital transformation requires 18–36 months and signific
 
 The brands that delay are not maintaining the status quo — they are falling behind competitors who are investing now.
 
+To understand how the conversion numbers justify this investment, see [how AI increases conversion rates for furniture retailers](/blog/ai-conversion-furniture-retailers) — it includes ROI calculations for a $5M retailer. For the virtual showroom component specifically, see our [virtual showroom guide](/blog/virtual-showroom-guide). And our [AI product photography for furniture](/blog/ai-product-photography-furniture) guide covers one of the highest-leverage steps in Phase 2.
+
 ---
 
-**Muebly's enterprise platform** supports every stage of this roadmap, from catalog digitization to AI visualization to retailer API integration. Talk to our team about a transformation strategy tailored to your brand.
+**Muebly's enterprise platform** supports every stage of this roadmap, from catalog digitization to AI visualization to retailer API integration. [Try our AI tool](/) or talk to our team about a transformation strategy tailored to your brand.

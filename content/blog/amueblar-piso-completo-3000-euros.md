@@ -38,7 +38,7 @@ Antes de entrar en ninguna tienda, mide cada estancia del piso con cinta métric
 
 ### Paso 2: Define tu estilo con IA
 
-Usa una herramienta de diseño de interiores con IA para visualizar distintos estilos en tu espacio antes de comprar nada. Esto te ayuda a tomar decisiones coherentes de color y estilo desde el principio.
+Usa una herramienta de diseño de interiores con IA para visualizar distintos estilos en tu espacio antes de comprar nada. Esto te ayuda a tomar decisiones coherentes de color y estilo desde el principio. Puedes [prueba nuestra IA](/) de forma gratuita: sube una foto y en segundos verás tu habitación con distintos estilos.
 
 ### Paso 3: Haz una lista priorizada
 
@@ -82,7 +82,7 @@ Divide los muebles en tres categorías:
 
 ## Salón: máximo 900€
 
-El salón es donde más tiempo pasas despierto, así que merece la mayor inversión.
+El salón es donde más tiempo pasas despierto, así que merece la mayor inversión. Si el espacio es reducido, prioriza piezas que hagan varias funciones: nuestra guía de [muebles multifuncionales para apartamentos pequeños](/blog/muebles-multifuncionales-apartamentos-pequenos-espana) te ayudará a sacar el máximo rendimiento al presupuesto del salón.
 
 ### Sofá: 300€-500€
 
@@ -191,8 +191,10 @@ Para muchas piezas, sí. Estanterías, mesas de madera sólida y lámparas de se
 
 ### ¿Cuáles son las mejores tiendas para amueblar un piso barato en España?
 
-IKEA, Miroytengo, Sklum y Conforama son las referencias para presupuesto ajustado.
+IKEA, Miroytengo, Sklum y Conforama son las referencias para presupuesto ajustado. Para una comparativa detallada con envíos, devoluciones y herramientas digitales, consulta nuestra guía de [mejores tiendas de muebles online en España](/blog/mejores-tiendas-muebles-online-espana).
 
 ### ¿Cómo evito comprar muebles que luego no queden bien?
+
+Si el salón es la estancia que más te preocupa, repasa también nuestros consejos para [decorar un salón pequeño con poco dinero](/blog/como-decorar-salon-pequeno-poco-dinero): hay trucos de distribución y escala que aplican independientemente del presupuesto total.
 
 Usa herramientas de IA para visualizar los muebles en tu espacio antes de comprar. Además, usa cinta adhesiva de pintor en el suelo para simular el tamaño del mueble antes de comprarlo.

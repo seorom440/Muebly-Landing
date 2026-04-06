@@ -116,12 +116,14 @@ The most common failure in minimalist interior design is coldness — spaces tha
 Warmth in minimalist design comes from:
 - **Natural materials**: Wood, stone, linen, leather age beautifully and feel alive
 - **Texture variety**: Different textures within the neutral palette create visual interest without color complexity
-- **Plants**: A single large plant or a few carefully placed specimens bring life without clutter
+- **Plants**: A single large plant or a few carefully placed specimens bring life without clutter — which is why [biophilic design](/blog/biophilic-design-guide) and minimalism overlap so naturally
 - **Personal objects**: A meaningful piece of art, a family photograph, an heirloom object — curated personal items are not clutter, they are the soul of a space
 - **Warm light temperature**: 2700–3000K lighting creates warmth that cool LED light destroys
+
+For a complementary framework, [Scandinavian design principles](/blog/scandinavian-design-guide) share most of the same values — with added emphasis on hygge and seasonal adaptation. And if you want practical inspiration for compact minimalist spaces, [small space furniture ideas](/blog/small-space-furniture-ideas) shows how to apply these principles when square footage is limited.
 
 A minimalist home should feel like a deep breath. Not like a showroom.
 
 ---
 
-**Try Muebly's minimalist design mode** — upload your room and see how AI transforms it with the principles above. Clean, intentional, warm.
+**Try Muebly's minimalist design mode** — [transform your room with AI](/) and see how it transforms with the principles above. Clean, intentional, warm.

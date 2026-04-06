@@ -17,8 +17,14 @@ Traditional virtual staging meant hiring a professional, waiting 2-3 days, and p
 
 ## The AI Revolution
 
-Muebly generates photorealistic staged images in under 30 seconds. Upload a photo, pick a style, and you're done.
+Muebly generates photorealistic staged images in under 30 seconds. Upload a photo, pick a style, and you're done. To understand how the technology works under the hood, read [what is AI virtual staging](/blog/what-is-ai-virtual-staging).
 
 ## Results That Matter
 
-Agencies using AI virtual staging report 73% faster time-to-sale and up to 10% higher sale prices.
+Agencies using AI virtual staging report 73% faster time-to-sale and up to 10% higher sale prices. For a detailed look at the numbers and ROI calculations by market segment, see our [virtual staging ROI guide](/blog/virtual-staging-roi).
+
+To understand the full trajectory of where this technology is heading, read [the future of AI in home design](/blog/future-of-ai-home-design) — it covers real-time video staging, conversational design assistants, and what agents should expect by 2027.
+
+---
+
+Ready to stage your first listing? [Our AI-powered room visualizer](/) generates results in 30 seconds — try it free.

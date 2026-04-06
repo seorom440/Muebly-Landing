@@ -17,16 +17,20 @@ Muted tones, natural materials, understated elegance. Less is more.
 
 ## 2. Biophilic Design
 
-Bring the outdoors in. Plants, natural light, organic shapes.
+Bring the outdoors in. Plants, natural light, organic shapes. Our [biophilic design guide](/blog/biophilic-design-guide) explains how to apply this in every room.
 
 ## 3. Japandi
 
-The perfect blend of Japanese minimalism and Scandinavian warmth.
+The perfect blend of Japanese minimalism and Scandinavian warmth. See how 2026 evolves these ideas in [interior design trends 2026](/blog/interior-design-trends-2026).
 
 ## 4. Curved Furniture
 
-Soft edges, rounded sofas, organic forms replacing sharp angles.
+Soft edges, rounded sofas, organic forms replacing sharp angles. Pair with [minimalist design principles](/blog/minimalist-design-principles) for maximum impact.
 
 ## 5. Earth Tones
 
-Terracotta, warm browns, sage greens — colors from nature.
+Terracotta, warm browns, sage greens — colors from nature. Use [AI color palette selection](/blog/ai-color-palette-selection) to find the exact shades that work in your room's light.
+
+---
+
+Want to see how any of these trends look in your actual space? [Try our AI tool](/) — upload a photo and see the transformation in seconds.

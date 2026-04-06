@@ -67,6 +67,8 @@ This means:
 
 ## Lesson 4: Pricing Is a Product Decision
 
+For a dedicated look at how pricing strategy works specifically in this space, see our [SaaS interior design business model](/blog/saas-interior-design-business-model) guide, which covers the full spectrum from freemium to enterprise.
+
 Interior design SaaS pricing is especially complex because:
 
 - **Sensitivity varies widely by segment:** An individual agent is price-sensitive; a furniture brand running 10,000 generations per month is not
@@ -83,7 +85,7 @@ Lessons learned from pricing missteps:
 
 ## Lesson 5: Integration Is the Moat
 
-Standalone AI visualization tools have low switching costs — a new tool launches that's marginally better, and customers switch.
+Standalone AI visualization tools have low switching costs — a new tool launches that's marginally better, and customers switch. For context on the conversion and ROI metrics that make integrations compelling to customers, see [how AI increases conversion rates for furniture retailers](/blog/ai-conversion-furniture-retailers).
 
 Integration creates switching costs:
 - Connected to a **real estate CRM:** agents build their listing workflow around the integration
@@ -125,4 +127,6 @@ Community creates network effects: the more of a professional community that use
 
 Building B2B SaaS for interior design is harder than it looks — and more rewarding than the numbers suggest. The professional network effects, the visual nature of the value delivered, and the genuine impact on people's work and livelihood create unusual opportunities for product-led brands.
 
-**Muebly** is building this product for the interior design ecosystem. If you are a professional who wants to shape our roadmap, join our community.
+For the brand and retailer perspective on this transformation — what buyers of your SaaS are going through — see our [furniture brand digital transformation roadmap](/blog/furniture-brand-digital-transformation). It shows exactly why the pain points your SaaS solves are growing in urgency.
+
+**Muebly** is building this product for the interior design ecosystem. [Try our AI interior design tool](/) or join our community if you want to shape the roadmap.

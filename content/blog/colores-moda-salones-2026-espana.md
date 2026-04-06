@@ -47,7 +47,7 @@ El blanco puro frío ha quedado anticuado. En 2026, los blancos de moda son **c�
 
 **Cómo usarlo:** Como color principal de paredes en salones que reciben poca luz natural. Combinado con textiles en tonos tierra y madera natural.
 
-**Perfecto para:** Estilos nórdico, Japandi, minimalista cálido.
+**Perfecto para:** Estilos nórdico, [Japandi](/blog/estilo-japandi-decoracion-que-es-como-lograrlo), minimalista cálido.
 
 ---
 
@@ -158,7 +158,9 @@ Pinta una muestra de al menos 50×50cm directamente en la pared y obsérvala en 
 
 ¿No estás seguro/a de cómo quedará el verde salvia o el terracota en tu salón específico? No gastes dinero en botes de pintura sin antes verlo.
 
-**Muebly** te permite aplicar cualquier color de pared a una foto de tu salón real y ver el resultado antes de tomar ninguna decisión.
+**Muebly** te permite aplicar cualquier color de pared a una foto de tu salón real y ver el resultado antes de tomar ninguna decisión. Con nuestra [herramienta de diseño con IA](/) puedes probar todos estos colores en tu salón en segundos, de forma gratuita.
+
+Si no tienes claro con qué muebles acompañar el nuevo color, repasa los consejos para [decorar un salón pequeño con poco dinero](/blog/como-decorar-salon-pequeno-poco-dinero) — muchos de los trucos de distribución y mueble son independientes del color y funcionan en cualquier paleta. Y para una visión completa del proceso de visualización con IA, los [simuladores de habitaciones con inteligencia artificial](/blog/simuladores-habitaciones-inteligencia-artificial) te explican exactamente cómo funciona la tecnología y qué herramientas son gratuitas.
 
 ---
 

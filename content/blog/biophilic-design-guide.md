@@ -129,8 +129,10 @@ You do not need to redesign your home to begin benefiting from biophilic design.
 2. **Maximize existing natural light** by repositioning furniture and changing window treatments
 3. **Swap one synthetic surface** for a natural material equivalent
 
+If you are thinking about the materials side of your furniture, [sustainable furniture materials](/blog/sustainable-furniture-materials) explores how to choose pieces that align with biophilic values from the ground up. For how biophilic principles fit into the broader design landscape this year, see [interior design trends 2026](/blog/interior-design-trends-2026). And [Scandinavian design](/blog/scandinavian-design-guide) is one of the styles most naturally aligned with biophilic principles — read the guide to see why.
+
 The cumulative effect of small biophilic adjustments is measurable within weeks — in stress levels, sleep quality, and how the space feels to inhabit.
 
 ---
 
-**Explore biophilic room designs with Muebly** — see how natural materials, plants, and organic shapes transform any room in your home with our AI visualization tool.
+**Explore biophilic room designs with Muebly** — [our free AI room designer](/) shows how natural materials, plants, and organic shapes transform any room in your home.

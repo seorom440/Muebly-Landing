@@ -59,6 +59,8 @@ El error más común al intentar hacer estilo nórdico es usar blanco puro frío
 - **Terracota:** Cálida y de tendencia.
 - **Negro mate:** Para líneas y marcos, da contraste sin recargue.
 
+Para ver la paleta completa que está triunfando este año, consulta nuestra guía de [colores de moda para salones en 2026](/blog/colores-moda-salones-2026-espana).
+
 ### La regla 70-20-10
 
 - **70%:** Color base (blanco roto, beige claro).
@@ -84,7 +86,7 @@ El sofá nórdico por excelencia es bajo, con patas de madera vistas, sin brazos
 
 ### La estantería
 
-Las estanterías de pared son fundamentales en el estilo nórdico: muestran los libros, las plantas y los objetos significativos.
+Las estanterías de pared son fundamentales en el estilo nórdico: muestran los libros, las plantas y los objetos significativos. Si tu piso es pequeño, combina con [muebles multifuncionales para apartamentos pequeños](/blog/muebles-multifuncionales-apartamentos-pequenos-espana) para maximizar cada metro cuadrado sin perder el espíritu nórdico.
 
 **Tip nórdico:** No llenes la estantería. Deja un 30-40% de espacio vacío. El vacío también decora.
 
@@ -147,7 +149,7 @@ No, al contrario. El estilo escandinavo nació en países con viviendas de tama�
 
 ### ¿Cuánto cuesta decorar un piso en estilo nórdico?
 
-Con un presupuesto de 800€-1.500€ puedes transformar completamente un piso pequeño. La mayor inversión suele ser el sofá y la alfombra.
+Con un presupuesto de 800€-1.500€ puedes transformar completamente un piso pequeño. Antes de comprar, usa nuestra [herramienta de diseño con IA](/) para visualizar cómo quedaría el estilo nórdico en tu espacio concreto. La mayor inversión suele ser el sofá y la alfombra.
 
 ### ¿Dónde comprar muebles nórdicos en España sin gastar demasiado?
 
@@ -155,7 +157,7 @@ IKEA, Kave Home y Sklum son las mejores opciones para presupuesto medio. Para di
 
 ### ¿El estilo nórdico y el estilo japandi son lo mismo?
 
-No exactamente. El japandi es una fusión del nórdico escandinavo con el wabi-sabi japonés. Comparten el minimalismo y los tonos neutros, pero el japandi incorpora elementos más austeros de la estética japonesa.
+No exactamente. El japandi es una fusión del nórdico escandinavo con el wabi-sabi japonés. Comparten el minimalismo y los tonos neutros, pero el japandi incorpora elementos más austeros de la estética japonesa. Si te resulta interesante esta mezcla, tenemos una guía completa sobre el [estilo Japandi](/blog/estilo-japandi-decoracion-que-es-como-lograrlo) con todas las claves para lograrlo.
 
 ### ¿Puedo mezclar el estilo nórdico con otros estilos?
 

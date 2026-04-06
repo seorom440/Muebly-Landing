@@ -43,7 +43,7 @@ This creates a visual taste profile that is more nuanced than any style category
 
 ### Layer 2: Room Context Analysis
 
-The second layer analyzes your actual room and uses that as a filter.
+The second layer analyzes your actual room and uses that as a filter. This is where the foundation described in [how to digitize your furniture catalog for AI](/blog/ai-furniture-catalog) becomes critical — a well-structured catalog makes the room context matching far more accurate.
 
 **How it works:** You upload a photo of your room. The AI extracts:
 - Dominant colors and materials
@@ -154,10 +154,12 @@ Retailers who have implemented furniture-specific AI personalization (not generi
 - **35% reduction in browse-to-exit rate** (relevant recommendations keep buyers engaged)
 - **19% increase in conversion rate** (personalized recommendations reduce decision paralysis)
 
+Personalization also has a direct impact on returns: [AI visualization reduces furniture return rates by up to 40%](/blog/reduce-furniture-returns-ai) when buyers can see their personalized selection in their actual room before purchasing. And for broader retailer strategy, see [furniture e-commerce conversion tips](/blog/furniture-ecommerce-conversion-tips).
+
 ---
 
 The furniture buying experience has historically been one of the most frustrating in retail — too many options, not enough guidance, and no connection between what you see and what will work in your actual space.
 
 AI personalization is changing this. Not incrementally, but fundamentally.
 
-**Muebly's personalization engine** learns your style from your room and your behavior. The more you use it, the better it understands what you're looking for — and the faster you find it.
+**Muebly's personalization engine** learns your style from your room and your behavior. The more you use it, the better it understands what you're looking for — and the faster you find it. [Try it for free](/) and see how it adapts to your space and taste.

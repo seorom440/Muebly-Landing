@@ -117,16 +117,16 @@ A Scandinavian room without hygge is a Scandinavian showroom. Adding hygge is wh
 
 ## Japandi: The Evolution of Scandinavian Design
 
-The most significant current evolution of Scandinavian design is Japandi — the fusion of Scandinavian and Japanese design philosophies. Both share:
+The most significant current evolution of Scandinavian design is Japandi — the fusion of Scandinavian and Japanese design philosophies. For a dedicated guide to achieving that look, see our [minimalist design principles](/blog/minimalist-design-principles) and [biophilic design guide](/blog/biophilic-design-guide) — both overlap strongly with the Scandinavian ethos. Both share:
 - Functional minimalism
 - Natural materials
 - Respect for craftsmanship
 - Preference for imperfect, organic beauty (wabi-sabi in the Japanese tradition)
 
-Japandi tends toward slightly darker, warmer tones than classic Scandinavian — mocha, charcoal, and forest green alongside the traditional neutrals — with Japanese elements like tatami, shoji, and low furniture profiles.
+Japandi tends toward slightly darker, warmer tones than classic Scandinavian — mocha, charcoal, and forest green alongside the traditional neutrals — with Japanese elements like tatami, shoji, and low furniture profiles. For a full color breakdown of what is currently trending, see [interior design trends 2026](/blog/interior-design-trends-2026).
 
 ---
 
 Scandinavian design has endured because it solves real problems — how to live well in limited space with limited light, surrounded by natural materials, in community with others. These are not uniquely Nordic problems.
 
-**Explore Scandinavian room designs with Muebly** — see how the principles above transform your space using our AI visualization tool.
+**Explore Scandinavian room designs with Muebly** — [see your room transformed](/) using our AI visualization tool.

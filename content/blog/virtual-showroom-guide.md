@@ -88,6 +88,8 @@ Every product needs:
 - **Dimensions** (accurate to centimeter)
 - **Product data tags** (style, material, category, room type, price tier)
 
+For a detailed walkthrough of the catalog preparation process, see [how to digitize your furniture catalog for AI](/blog/ai-furniture-catalog).
+
 For brands without 3D models, AI photogrammetry services can generate 3D models from product photos for $50–$150 per SKU.
 
 ### Step 3: Environment Design
@@ -159,4 +161,6 @@ A mid-sized Scandinavian furniture brand with 200 SKUs and €12M annual revenue
 
 The virtual showroom is not the future of furniture retail — it is the present. The question is not whether to build one, but how quickly you can execute.
 
-**Muebly for Brands** — we help furniture brands build AI-powered virtual showrooms. Contact us to learn about our white-label visualization platform.
+To see how virtual showrooms fit into the broader digital transformation journey, read our [furniture brand digital transformation roadmap](/blog/furniture-brand-digital-transformation). And if you want the product photography foundation that powers an effective showroom, [AI product photography for furniture](/blog/ai-product-photography-furniture) explains how to generate thousands of lifestyle images at a fraction of traditional studio costs. Understanding the ROI context is also helpful — [real estate virtual staging ROI](/blog/real-estate-virtual-staging-roi) shows what the numbers look like.
+
+**Muebly for Brands** — we help furniture brands build AI-powered virtual showrooms. [Try our AI tool](/) or contact us to learn about our white-label visualization platform.

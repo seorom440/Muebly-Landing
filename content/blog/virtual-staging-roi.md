@@ -17,7 +17,7 @@ The answer for virtual staging is a clear yes — and the numbers prove it.
 
 ## The Baseline: What Unstaged Properties Cost You
 
-Before calculating staging ROI, establish the cost of not staging:
+Before calculating staging ROI, establish the cost of not staging. For segment-specific calculations that show how ROI varies between luxury, mid-market, and entry-level properties, see our [real estate virtual staging ROI breakdown](/blog/real-estate-virtual-staging-roi).
 
 - **Vacant homes sell for 6–11% less** than occupied and staged homes (National Association of Realtors, 2024)
 - **Days on market for unstaged vacant homes: 90–120 days** average in most US markets
@@ -117,6 +117,8 @@ Agents who stage every listing consistently outperform peers in both volume and 
 
 ## When Virtual Staging ROI Is Lower
 
+To understand whether AI staging is better than physical staging for your situation, read our [AI vs. traditional staging comparison](/blog/ai-vs-traditional-staging) — it includes a direct cost-benefit analysis. And to see where AI staging is heading next, [future of virtual staging](/blog/future-of-virtual-staging) covers what the technology will enable in the next 2–3 years.
+
 Virtual staging is a high-ROI investment for most listings, but there are scenarios where returns are lower:
 
 - **Already occupied and well-furnished homes:** The staging advantage is smaller when the existing furniture is decent
@@ -135,4 +137,4 @@ This framing consistently converts skeptical sellers into staging advocates.
 
 The data is unambiguous: virtual staging is not a marketing expense — it is a return-maximizing investment.
 
-**Start your first listing with Muebly** — 3 free rooms, results in 30 seconds, ROI from day one.
+**Start your first listing with Muebly** — [see your room transformed](/) — 3 free rooms, results in 30 seconds, ROI from day one.

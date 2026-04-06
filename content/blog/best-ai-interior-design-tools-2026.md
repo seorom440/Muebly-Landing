@@ -11,6 +11,8 @@ tags: ["AI tools", "interior design", "software review", "2026"]
 
 ## How We Evaluated AI Interior Design Tools
 
+Before diving in, if you are new to the concept, read our [AI room visualization guide](/blog/ai-room-visualization-guide) — it covers the foundational technology behind all these tools.
+
 We tested 12 tools over 6 weeks across four categories:
 
 1. **Output quality** — realism, shadow accuracy, scale correctness
@@ -116,6 +118,8 @@ Planner 5D converts a floor plan (drawn in-app or uploaded) into a furnished 3D 
 
 **If you just want to try it free:** Muebly (3 rooms free) or IKEA Kreativ (unlimited, but IKEA-only products).
 
+To understand how AI determines optimal furniture positioning within the rooms these tools visualize, see our explainer on [AI-powered furniture placement](/blog/ai-furniture-placement). And if you want to know how AI reads and interprets the spatial data in your room photo, check out [how AI reads your room](/blog/how-ai-reads-your-room).
+
 ## What's Coming in 2026
 
 The tools we tested are already impressive. What is coming will be transformative:
@@ -129,4 +133,4 @@ The tools in this list will all look different by the end of 2026. But the funda
 
 ---
 
-**Start with Muebly** — 3 free rooms, no credit card required. See photorealistic results in under 30 seconds.
+**Start with Muebly** — 3 free rooms, no credit card required. [Design your room with AI](/) and see photorealistic results in under 30 seconds.

@@ -42,7 +42,7 @@ Los tonos claros —blanco roto, beige, gris perla, arena— reflejan la luz y c
 
 ### Los colores tendencia para salones en 2026
 
-Según las últimas tendencias, los tonos cálidos como el **terracota suave, el camel y el blanco cálido** están liderando la decoración de interiores este año. No son fríos ni estériles: transmiten calor sin recargar.
+Según las últimas tendencias, los tonos cálidos como el **terracota suave, el camel y el blanco cálido** están liderando la decoración de interiores este año. Para una guía detallada sobre qué paletas están triunfando ahora mismo, consulta nuestra selección de [colores de moda para salones en 2026](/blog/colores-moda-salones-2026-espana). No son fríos ni estériles: transmiten calor sin recargar.
 
 **Consejo práctico:** Usa el color más oscuro únicamente en una pared de acento (la pared del fondo o la de detrás del sofá). El resto, en tono neutro.
 
@@ -52,7 +52,7 @@ Según las últimas tendencias, los tonos cálidos como el **terracota suave, el
 
 ### El sofá cama: el rey del salón pequeño
 
-Un sofá cama de calidad puede costar desde 300€ y te ahorra tener que destinar una habitación entera a los invitados. Busca modelos con mecanismo clic-clac o apertura italiana, que son los más cómodos y duraderos.
+Un sofá cama de calidad puede costar desde 300€ y te ahorra tener que destinar una habitación entera a los invitados. Busca modelos con mecanismo clic-clac o apertura italiana, que son los más cómodos y duraderos. Si quieres profundizar en este tema, tenemos una guía completa sobre [muebles multifuncionales para apartamentos pequeños](/blog/muebles-multifuncionales-apartamentos-pequenos-espana) con las mejores opciones del mercado español.
 
 ### Mesas de centro con almacenaje
 
@@ -148,7 +148,7 @@ Una galería de cuadros bien compuesta en la pared principal aporta personalidad
 
 Este es el consejo más moderno y útil de todos: **antes de gastar un solo euro, usa una herramienta de IA para ver cómo quedará tu salón decorado**.
 
-Las herramientas de diseño de interiores con inteligencia artificial te permiten subir una foto de tu salón y visualizar distintos estilos, colores y muebles en segundos. Así evitas costosos errores de compra.
+Las herramientas de diseño de interiores con inteligencia artificial te permiten subir una foto de tu salón y visualizar distintos estilos, colores y muebles en segundos. Así evitas costosos errores de compra. Puedes [visualiza tu habitación con IA](/) directamente en Muebly, sin registro y de forma gratuita.
 
 ---
 
@@ -163,6 +163,8 @@ Las herramientas de diseño de interiores con inteligencia artificial te permite
 ## Preguntas frecuentes sobre cómo decorar un salón pequeño
 
 ### ¿Cuánto cuesta decorar un salón pequeño desde cero?
+
+Si quieres ver cómo funcionan estos principios de forma integral —desde la distribución hasta el color— el [estilo nórdico para pisos pequeños](/blog/estilo-nordico-pisos-pequenos) es uno de los enfoques más efectivos y replicables. Y para tener claro desde el principio qué vas a gastar en total, puede ayudarte nuestra guía para [amueblar un piso completo por 3.000€](/blog/amueblar-piso-completo-3000-euros).
 
 Con un presupuesto de entre **500€ y 1.500€** puedes renovar completamente un salón pequeño, incluyendo pintura, muebles básicos y decoración. Con menos de 500€ puedes hacer cambios muy significativos si ya tienes los muebles principales.
 

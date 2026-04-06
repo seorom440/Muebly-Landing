@@ -39,7 +39,7 @@ This trend responds to years of rigid, rectilinear Scandinavian minimalism. Room
 
 ## Trend 3: Biophilic Design Goes Structural
 
-Plants and natural materials are no longer just accessories — they are becoming integral to room architecture:
+Plants and natural materials are no longer just accessories — they are becoming integral to room architecture. For a comprehensive guide to implementing this trend, see our [biophilic design guide](/blog/biophilic-design-guide).
 
 - **Living walls** built into kitchen splashbacks and home office partitions
 - **Raw stone surfaces** on feature walls, coffee tables, and bathroom vanities
@@ -111,8 +111,10 @@ Based on emerging selections in AI design tools, watch for:
 - **Sustainable luxury** — recycled and upcycled materials presented as premium
 - **AI-designed custom furniture** — pieces generated and manufactured on demand
 
+To master the color aspect of 2026 trends, [AI color palette selection](/blog/ai-color-palette-selection) explains how AI analyzes your specific space and light to recommend harmonious palettes. And for the style fundamentals underlying many of these trends, [Scandinavian design](/blog/scandinavian-design-guide) remains the clearest reference point.
+
 ---
 
 Design trends ultimately reflect how people want to feel in their homes. In 2026, the answer is clear: **warm, connected, and human**.
 
-**Use Muebly to explore any of these 2026 trends in your own space** — upload your room photo and try different styles in seconds.
+**Use Muebly to explore any of these 2026 trends in your own space** — [try it for free](/) and upload your room photo to try different styles in seconds.

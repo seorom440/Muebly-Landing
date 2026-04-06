@@ -52,7 +52,7 @@ Color psychology is incorporated into AI recommendations:
 
 ### 4. Architectural Style
 
-A bold terracotta accent wall suits a Mediterranean villa but clashes with a contemporary minimalist apartment. The AI classifies the room's architectural style and filters recommendations accordingly.
+A bold terracotta accent wall suits a Mediterranean villa but clashes with a contemporary minimalist apartment. The AI classifies the room's architectural style and filters recommendations accordingly. For context on how 2026's trending colors intersect with key design styles, see our [interior design trends 2026](/blog/interior-design-trends-2026) overview.
 
 ### 5. Personal Preference Learning
 
@@ -111,7 +111,7 @@ The best AI tools allow you to see the palette applied to your actual room photo
 
 **Forgetting adjacent rooms:** A color palette that looks great in isolation can clash with the room that is visible through the doorway. Good AI tools show multi-room context.
 
-**Over-relying on trending colors:** Trending colors may not suit your specific room's light, architecture, or existing fixed elements.
+**Over-relying on trending colors:** Trending colors may not suit your specific room's light, architecture, or existing fixed elements. For palette inspiration that sits outside trends, [minimalist design principles](/blog/minimalist-design-principles) offers a timeless framework — and [biophilic design](/blog/biophilic-design-guide) shows how nature-derived colors create consistently harmonious rooms.
 
 **Skipping the physical swatch stage:** Always test AI-recommended colors with real paint samples before committing. Screen color rendering is not perfect.
 
@@ -128,4 +128,4 @@ Muebly's color recommendation engine analyzes your uploaded room and applies all
 
 Color is where AI earns its place in interior design — not by replacing human taste, but by analyzing variables no human eye can process simultaneously.
 
-**Upload your room to Muebly** and receive your personalized AI color palette in under 60 seconds.
+**Upload your room to Muebly** and receive your personalized AI color palette in under 60 seconds — [our AI home design tool](/) is free to try.

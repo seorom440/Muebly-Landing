@@ -125,6 +125,8 @@ This looks healthy. The challenge: power users who generate 100+ images per mont
 
 ## Distribution: How AI Design Companies Grow
 
+For the operational and product development lessons specific to building in this space, see our companion article [building a B2B SaaS for interior design](/blog/b2b-saas-interior-design) — it covers the ICP selection, pricing, and churn challenges in practical detail.
+
 ### Product-Led Growth (PLG)
 
 The viral loop: user generates a beautiful room image → shares on Instagram → followers discover the tool → new users sign up. Every shared image is free marketing.
@@ -147,7 +149,7 @@ Partnerships with:
 - E-commerce platforms (Shopify, WooCommerce) → retailer distribution
 - MLS/property portals (Zillow, Rightmove) → direct agent integration
 
-Partnership distribution has high CAC investment upfront but very low per-customer acquisition costs once active.
+Partnership distribution has high CAC investment upfront but very low per-customer acquisition costs once active. For the retailer-side perspective — the customers you are building for — see [how AI increases conversion rates for furniture retailers](/blog/ai-conversion-furniture-retailers) and [virtual showroom guide](/blog/virtual-showroom-guide).
 
 ## What Makes AI Design SaaS Companies Win Long-Term
 
@@ -160,4 +162,4 @@ Partnership distribution has high CAC investment upfront but very low per-custom
 
 The AI interior design SaaS market is large, growing, and still fragmented. The companies that combine quality output, smart pricing, and sustainable distribution will define the category.
 
-**Muebly** is building at the intersection of all three. Learn more about our plans for individual users, professionals, and enterprise brands.
+**Muebly** is building at the intersection of all three. [Try our AI interior design tool](/) — learn more about our plans for individual users, professionals, and enterprise brands.

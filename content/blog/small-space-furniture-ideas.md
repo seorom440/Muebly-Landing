@@ -29,7 +29,7 @@ Before choosing furniture, understand the visual and spatial techniques that mak
 
 ## Principle 2: Every Piece Must Work Twice
 
-In a small space, furniture that serves only one function is a luxury you cannot afford. Every investment should be in multi-functional pieces:
+In a small space, furniture that serves only one function is a luxury you cannot afford. Every investment should be in multi-functional pieces. Before selecting any piece, use [AI-powered furniture placement](/blog/ai-furniture-placement) to verify the layout works — and that your traffic flow stays clear.
 
 ### The Sofa Bed Done Right
 
@@ -114,6 +114,8 @@ Mirrors remain the most powerful tool for expanding perceived space. Effective u
 
 ## The Small Space Trap: Too Many Small Things
 
+For style direction, [minimalist design principles](/blog/minimalist-design-principles) provides the clearest framework for editing a small space with intention — and [Scandinavian design](/blog/scandinavian-design-guide) is one of the styles most naturally suited to compact living.
+
 The most common small-space decorating mistake is filling the space with small decorative objects — many small plants, many small frames, many small cushions, many small accessories. Each individual item is fine. Together, they create visual clutter that makes the space feel cramped.
 
 The antidote: **edit aggressively and choose fewer, larger statement pieces**. One large plant over six small ones. One large art piece over six small frames. Two substantial cushions over six small ones.
@@ -122,4 +124,4 @@ Less visual noise = more perceived space.
 
 ---
 
-**See your small space transformed** with Muebly's AI visualization — upload your room and explore furniture arrangements that maximize space, light, and livability.
+**See your small space transformed** with [our AI home design tool](/) — upload your room and explore furniture arrangements that maximize space, light, and livability.

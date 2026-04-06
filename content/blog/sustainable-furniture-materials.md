@@ -146,8 +146,10 @@ Before purchasing furniture:
 5. **Can it be repaired?** (Avoid glued-only construction)
 6. **Can it be recycled?** (Monomaterial construction is easiest to recycle at end of life)
 
+Sustainable materials pair naturally with [biophilic design principles](/blog/biophilic-design-guide) — both prioritize authentic natural materials over synthetic alternatives. For a broader look at how sustainability is shaping the market this year, see [interior design trends 2026](/blog/interior-design-trends-2026). And [minimalist design principles](/blog/minimalist-design-principles) are philosophically aligned: buying less but better is the ultimate sustainable strategy.
+
 ---
 
 Sustainable furniture is not a category — it is a set of decisions. The clearer you are about what sustainability actually means, the better the choices you can make.
 
-**Use Muebly to visualize sustainable furniture options** in your space before committing to a purchase — see how natural materials and textures will look in your room.
+**Use Muebly to visualize sustainable furniture options** in your space before committing to a purchase — [visualize your room with AI](/) and see how natural materials and textures will look in your room.

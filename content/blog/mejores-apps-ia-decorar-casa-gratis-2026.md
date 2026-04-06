@@ -57,7 +57,7 @@ Antes de recomendarte las mejores herramientas, te explicamos los criterios que 
 
 ### 1. Muebly — La más adaptada al mercado español
 
-**Lo que hace:** Diseñada pensando en hogares y gustos españoles. Sube una foto de tu habitación, elige un estilo y recibe una propuesta fotorrealista en segundos.
+**Lo que hace:** Diseñada pensando en hogares y gustos españoles. Sube una foto de tu habitación, elige un estilo y recibe una propuesta fotorrealista en segundos. Si quieres entender cómo funciona la tecnología de visualización en detalle, consulta nuestra guía de [simuladores de habitaciones con inteligencia artificial](/blog/simuladores-habitaciones-inteligencia-artificial).
 
 **Puntos fuertes:**
 - Diseñada para el gusto y los espacios del mercado español
@@ -183,11 +183,11 @@ La calidad del resultado de la IA depende directamente de la calidad de la foto 
 
 ### Prueba varios estilos antes de decidirte
 
-No te quedes con el primer resultado. La mayoría de apps permiten probar múltiples estilos. Experimenta con estilos que nunca habrías considerado.
+No te quedes con el primer resultado. La mayoría de apps permiten probar múltiples estilos. Experimenta con estilos que nunca habrías considerado, como el [estilo Japandi](/blog/estilo-japandi-decoracion-que-es-como-lograrlo), que combina lo mejor del diseño escandinavo y japonés y queda muy bien en pisos medianos y pequeños.
 
 ### Combina varias herramientas
 
-Usa RoomGPT para exploración rápida, Planner 5D para medir y planificar, y Muebly para el resultado final con productos del mercado español.
+Usa RoomGPT para exploración rápida, Planner 5D para medir y planificar, y Muebly para el resultado final con productos del mercado español. Una vez que tengas claro el estilo, no olvides fijarte en los [colores de moda para salones en 2026](/blog/colores-moda-salones-2026-espana) para afinar tu paleta antes de tomar decisiones de compra.
 
 ---
 
@@ -207,7 +207,7 @@ Los resultados son muy buenos para exploración e inspiración. Úsala como punt
 
 ### ¿Puede la IA sustituir a un interiorista profesional?
 
-Para proyectos simples de redecoración, la IA puede ser suficiente. Para reformas estructurales o proyectos de alta gama, siempre recomendamos combinar IA con asesoramiento profesional.
+Para proyectos simples de redecoración, la IA puede ser suficiente. Si quieres probarlo ahora mismo, nuestro [diseñador de interiores online](/) te permite visualizar cambios en tu habitación real sin ningún coste. Para reformas estructurales o proyectos de alta gama, siempre recomendamos combinar IA con asesoramiento profesional.
 
 ### ¿Funcionan estas apps en español?
 
