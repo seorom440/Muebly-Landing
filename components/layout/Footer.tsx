@@ -29,8 +29,10 @@ export function Footer() {
           </div>
           <div className="flex flex-col gap-4">
             <h4 className="text-sm font-medium uppercase tracking-wider text-white/40 mb-2">{t('footerLegal')}</h4>
-            <Link href="/#terms" className="text-white/80 hover:text-white transition-colors">{t('footerTerms')}</Link>
-            <Link href="/#privacy" className="text-white/80 hover:text-white transition-colors">{t('footerPrivacy')}</Link>
+            <Link href="/legal/aviso-legal" className="text-white/80 hover:text-white transition-colors">{t('footerAvisoLegal')}</Link>
+            <Link href="/legal/privacidad" className="text-white/80 hover:text-white transition-colors">{t('footerPrivacidad')}</Link>
+            <Link href="/legal/cookies" className="text-white/80 hover:text-white transition-colors">{t('footerCookies')}</Link>
+            <Link href="/legal/terminos" className="text-white/80 hover:text-white transition-colors">{t('footerTerminos')}</Link>
           </div>
         </div>
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">

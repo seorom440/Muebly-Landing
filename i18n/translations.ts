@@ -156,6 +156,10 @@ export const translations = {
     footerLegal: "Legal",
     footerTerms: "Terms of Service",
     footerPrivacy: "Privacy Policy",
+    footerAvisoLegal: "Legal Notice",
+    footerPrivacidad: "Privacy Policy",
+    footerCookies: "Cookie Policy",
+    footerTerminos: "Terms of Service",
 
     // Real Estate Page
     reHeroTag: "For Real Estate",
@@ -639,6 +643,10 @@ export const translations = {
     footerLegal: "Legal",
     footerTerms: "Términos de Servicio",
     footerPrivacy: "Política de Privacidad",
+    footerAvisoLegal: "Aviso Legal",
+    footerPrivacidad: "Privacidad",
+    footerCookies: "Cookies",
+    footerTerminos: "Términos",
 
     // Real Estate Page
     reHeroTag: "Para Inmobiliarias",
