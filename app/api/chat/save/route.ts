@@ -109,5 +109,19 @@ export async function POST(req: NextRequest) {
     console.error("[Muebly Chat] Sheets write failed (non-fatal):", err);
   }
 
+  try {
+    const webhookUrl = process.env.MAKE_WEBHOOK_URL;
+    if (webhookUrl) {
+      await fetch(webhookUrl, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+      console.log("[Muebly Chat] Make webhook triggered ✓");
+    }
+  } catch (err) {
+    console.error("[Muebly Chat] Make webhook failed (non-fatal):", err);
+  }
+
   return NextResponse.json({ ok: true });
 }
