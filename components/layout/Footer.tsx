@@ -22,6 +22,7 @@ export function Footer() {
           </div>
           <div className="flex flex-col gap-4">
             <h4 className="text-sm font-medium uppercase tracking-wider text-white/40 mb-2">{t('footerTools')}</h4>
+            <Link href="/support" className="text-white/80 hover:text-white transition-colors">{t('footerSupport')}</Link>
             <Link href="/faq" className="text-white/80 hover:text-white transition-colors">FAQ</Link>
             <Link href="/blog" className="text-white/80 hover:text-white transition-colors">Blog</Link>
             <Link href="/#virtual-staging" className="text-white/80 hover:text-white transition-colors">{t('footerVirtualStaging')}</Link>
