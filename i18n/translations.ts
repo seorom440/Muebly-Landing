@@ -14,6 +14,10 @@ export const translations = {
     // Hero
     designAny: "Design any",
     interior: "interior",
+    heroTitle1: "Real Furniture,",
+    heroTitle2: "AI Design.",
+    heroSubtitle: "See your home before you change it.",
+    heroDesc: "Upload your photo, choose a product or style, and AI redesigns it instantly.",
     startWithImage: "Start with an image, preset or prompt — redesign, repaint or stage like a pro.",
     downloadApp: "Download App",
     
@@ -502,6 +506,10 @@ export const translations = {
     // Hero
     designAny: "Diseña cualquier",
     interior: "interior",
+    heroTitle1: "Muebles Reales,",
+    heroTitle2: "Diseño con IA.",
+    heroSubtitle: "Ve tu hogar antes de cambiarlo.",
+    heroDesc: "Sube tu foto, escoge producto o estilo y la IA lo rediseña al instante.",
     startWithImage: "Comienza con una imagen, preajuste o prompt — rediseña, repinta o escenifica como un profesional.",
     downloadApp: "Descargar App",
     

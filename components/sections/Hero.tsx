@@ -18,10 +18,11 @@ export function Hero() {
 
       <div className="container mx-auto px-6 relative z-10 grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-0 items-center h-full pt-10 lg:pt-0">
         <div className="flex flex-col items-center lg:items-start text-center lg:text-left max-w-2xl mx-auto lg:mx-0 z-30">
-          <h1 className="text-4xl sm:text-5xl md:text-7xl font-semibold tracking-tighter leading-[1.1] mb-6">
-            {t('designAny')} <span className="text-accent">{t('interior')}</span>
+          <h1 className="text-4xl sm:text-5xl md:text-7xl font-semibold tracking-tighter leading-[1.1] mb-4">
+            {t('heroTitle1')} <span className="text-accent">{t('heroTitle2')}</span>
           </h1>
-          <p className="text-base sm:text-lg md:text-xl text-black/60 lg:text-white/80 mb-8 max-w-md">{t('startWithImage')}</p>
+          <p className="text-xl sm:text-2xl font-medium text-black/80 lg:text-white/90 mb-3">{t('heroSubtitle')}</p>
+          <p className="text-base sm:text-lg text-black/60 lg:text-white/60 mb-8 max-w-md">{t('heroDesc')}</p>
           <div className="flex flex-col sm:flex-row gap-4 w-full justify-center lg:justify-start items-center">
             <Button size="default" className="bg-black text-white lg:bg-white lg:text-black border border-transparent hover:bg-emerald-500 hover:text-white hover:border-emerald-500 rounded-full h-10 px-8 text-sm font-medium shadow-lg lg:shadow-[0_0_20px_rgba(255,255,255,0.3)] transition-all duration-300 transform hover:scale-105">
               <Download className="mr-2 h-4 w-4" />
