@@ -40,7 +40,7 @@ export function ChatWidget() {
   const [emailInput, setEmailInput] = useState('');
   const [userEmail, setUserEmail] = useState<string | null>(null);
   const [sessionId] = useState(generateUUID);
-  const [startTime] = useState(new Date().toISOString);
+  const [startTime] = useState(() => new Date().toISOString());
   const [userMsgCount, setUserMsgCount] = useState(0);
   const [resolved, setResolved] = useState(false);
   const [savedSession, setSavedSession] = useState(false);
