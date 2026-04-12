@@ -25,6 +25,7 @@ export function Footer() {
             <Link href="/support" className="text-white/80 hover:text-white transition-colors">{t('footerSupport')}</Link>
             <Link href="/faq" className="text-white/80 hover:text-white transition-colors">FAQ</Link>
             <Link href="/blog" className="text-white/80 hover:text-white transition-colors">Blog</Link>
+            <a href="https://muebly.es" target="_blank" rel="noopener noreferrer" className="text-white/80 hover:text-white transition-colors">muebly.es</a>
             <Link href="/#virtual-staging" className="text-white/80 hover:text-white transition-colors">{t('footerVirtualStaging')}</Link>
             <Link href="/#exterior" className="text-white/80 hover:text-white transition-colors">{t('footerExterior')}</Link>
           </div>
