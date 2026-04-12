@@ -47,8 +47,6 @@ export function Navbar() {
             <Globe size={16} />
             {language.toUpperCase()}
           </button>
-          <Button variant="outlineWhite" size="sm" className="h-10 px-6">{t('login')}</Button>
-          <Button variant="default" size="sm" className="h-10 px-6 bg-white text-black hover:bg-white/90 border-none">{t('signUp')}</Button>
         </div>
 
         <div className="xl:hidden flex items-center gap-4">
@@ -70,10 +68,6 @@ export function Navbar() {
                 {link.name}
               </Link>
             ))}
-            <div className="flex flex-col gap-3 mt-4">
-              <Button variant="outlineWhite" className="w-full">{t('login')}</Button>
-              <Button variant="default" className="w-full bg-white text-black">{t('signUp')}</Button>
-            </div>
           </motion.div>
         )}
       </AnimatePresence>
