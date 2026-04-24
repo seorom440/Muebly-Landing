@@ -151,6 +151,7 @@ export function ChatWidget() {
         }),
       });
 
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
       if (!res.body) throw new Error('No body');
 
       const reader = res.body.getReader();
